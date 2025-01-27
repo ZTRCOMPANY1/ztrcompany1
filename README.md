@@ -1,4 +1,4 @@
-- ![](https://github-readme-stats.vercel.app/api?username=ztrcompany1&theme=blue-green)![](	https://github-readme-stats.vercel.app/api/top-langs/?username=ztrcompany1&theme=blue-green)
+- ![](https://github-readme-stats.vercel.app/api?username=ztrcompany1&theme=blue-green)ㅤㅤㅤㅤㅤ![](	https://github-readme-stats.vercel.app/api/top-langs/?username=ztrcompany1&theme=blue-green)
 
 # Olá, eu sou o Julio!
 
