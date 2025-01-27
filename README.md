@@ -13,5 +13,5 @@
 
 ## Sites Principais
 
-- [ZTR COMPANY]([link](https://ztrcompany.site/))
-- [SITE OFC ASTRONOMIA]([link](https://siteofcastronomia.site/))
+- [ZTR COMPANY](https://ztrcompany.site/)
+- [SITE OFC ASTRONOMIA](https://siteofcastronomia.site/)
