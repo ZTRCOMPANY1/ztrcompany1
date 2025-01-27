@@ -11,6 +11,9 @@
 - C#
 - Unity 🕹️
 
+- ## Redes Sociais
+- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=whit)]
+
 ## Sites Principais
 
 - [ZTR COMPANY](https://ztrcompany.site/)
