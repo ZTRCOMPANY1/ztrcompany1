@@ -15,3 +15,6 @@
 
 - [ZTR COMPANY](https://ztrcompany.site/)
 - [SITE OFC ASTRONOMIA](https://siteofcastronomia.site/)
+- [DJ JULIO BEAT](https://djjuliobeat.site/)
+- [Site para ver o clima](https://ztrem.pythonanywhere.com/)
+- [PARKOUR SPACE](https://parkourspace.site/)
