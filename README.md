@@ -1,3 +1,5 @@
+- ![](https://github-readme-stats.vercel.app/api?username=ztrcompany1&theme=blue-green)![](	https://github-readme-stats.vercel.app/api/top-langs/?username=ztrcompany1&theme=blue-green)
+
 # Olá, eu sou o Julio!
 
 🎮 Desenvolvedor de jogos para mobile e PC. Também crio sites e apps!
@@ -21,5 +23,3 @@
 - [DJ JULIO BEAT](https://djjuliobeat.site/)
 - [Site para ver o clima](https://ztrem.pythonanywhere.com/)
 - [PARKOUR SPACE](https://parkourspace.site/)
-
-- [![](https://github-readme-stats.vercel.app/api?username={ztrcompany1}&theme=blue-green)]
