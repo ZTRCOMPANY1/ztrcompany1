@@ -1,3 +1,7 @@
+# Olá, eu sou o Julio!
+
+🎮 Desenvolvedor de jogos para mobile e PC. Também crio sites e apps!
+
 - ![](https://github-readme-stats.vercel.app/api?username=ztrcompany1&theme=blue-green)
 <div align="center">
   <img src="https://profile-counter.glitch.me/ztrcompany1/count.svg?"  />
