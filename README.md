@@ -1,34 +1,8 @@
+- ![](https://github-readme-stats.vercel.app/api?username=ztrcompany1&theme=blue-green)ㅤ![](	https://github-readme-stats.vercel.app/api/top-langs/?username=ztrcompany1&theme=blue-green)
+
 # Olá, eu sou o Julio!
 
 🎮 Desenvolvedor de jogos para mobile e PC. Também crio sites e apps!
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ztrcompany1/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ztrcompany1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ztrcompany1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ztrcompany1&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ztrcompany1&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ztrcompany1&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@ztrcompany" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/ztr_company/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
 
 ## Tecnologias que eu uso
 
@@ -40,7 +14,7 @@
 
 
 - ## Redes Sociais
-- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=whit)](https://www.youtube.com/@DJJULIOBEAT) [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199472450752/) [![xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com/pt-BR/play/user/Ztremnt) [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/artist/62m646FOmtiwCRdz0GI5E2?si=O7Oq3BFIT9CoKYuBv5eY7Q) [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dj_julio_beat3/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ztremcompany@gmail.com)
+- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=whit)](https://www.youtube.com/@DJJULIOBEAT)
 
 ## Sites Principais
 
